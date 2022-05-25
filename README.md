@@ -2,6 +2,10 @@
 2D and 3D graphics program/animation created wiht OpenGL Shading Language (GLSL) in C++. The system-level I/O and window controll is done with OpenGL Utility Toolkit (GLUT)
 
 ## 2D compass, ruler program (Underline)
+##Headers (Underline)
+
+H1 Header (Underline)
+=============
 > Shapes: dot, line, circle
 
 Functions:
