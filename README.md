@@ -13,12 +13,12 @@ Functions:
 To set the compass radius, select a dot then press `S` on the keyboard then select another dot by right click. The radius will be the distance between the two selected dots. Drawing a line is similar. Select a dot then press `L` select another dot. An infinite line will be drawn containing the two selected dots. 
 To draw a circle simply  press `C` then select a dot. The dot will be the center of the circle and the radius will be the previously set value. To determine intersection points (0,1,2) between line-line, circle-line, line-circle, circle-circle press `I` then select the two shapes. New dots will appear at the intersections.
 
-![Simple Draw](images/simpleDraw.png)
+<img src="images/simpleDraw.png" width="300"> 
 
 ## 3D lamp animation (lamp_anim.cpp)
 > Objects: sphere, cylinder, paraboloid, circle, plane
 
 This is a 3D animation of a lamp, created with incremental image synthesis. The objects are definied with parametric equations.
 
-<img src="images/lamp1.png" width="250"> <img src="images/lamp2.png" width="250">
+<img src="images/lamp1.png" width="300"> <img src="images/lamp2.png" width="300">
 
