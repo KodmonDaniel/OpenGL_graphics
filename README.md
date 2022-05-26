@@ -20,4 +20,4 @@ To draw a circle simply  press `C` then select a dot. The dot will be the center
 
 This is a 3D animation of a lamp, created with incremental image synthesis. The objects are definied with parametric equations.
 
-![Lmap1](images/lamp1.png | =250x250) ![Lmap2](images/lamp2.png | =350x350)
+![Lmap1](images/lamp1.png =250x250) ![Lmap2](images/lamp2.png =350x350)
