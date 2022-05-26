@@ -15,4 +15,9 @@ To draw a circle simply  press `C` then select a dot. The dot will be the center
 
 ![Simple Draw](images/simpleDraw.png)
 
-## 3D lamp animation
+## 3D lamp animation (lamp_anim.cpp)
+> Objects: sphere, cylinder, paraboloid, circle, plane
+
+This is a 3D animation of a lamp, created with incremental image synthesis. The objects are definied with parametric equations.
+
+![Lmap1](images/lamp1.png) ![Lmap2](images/lamp2.png)
