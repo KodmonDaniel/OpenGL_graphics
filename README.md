@@ -18,7 +18,7 @@ To draw a circle simply  press `C` then select a dot. The dot will be the center
 ## 3D lamp animation (lamp_anim.cpp)
 > Objects: sphere, cylinder, paraboloid, circle, plane
 
-This is a 3D animation of a lamp, created with incremental image synthesis. The objects are definied with parametric equations. the shading was done with phong shader.
+This is a 3D animation of a lamp, created with incremental image synthesis. The objects are definied with parametric equations, and the shading was done with Phong shader.
 
 <img src="images/lamp1.png" width="300"> <img src="images/lamp2.png" width="300">
 
